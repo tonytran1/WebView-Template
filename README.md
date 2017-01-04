@@ -15,7 +15,7 @@ Built and tested on Android Studios.
 1. Navigate to strings.xml and change the app name and URL for your website.
 2. Compile/Build the Project.
 
-Location of string.xml
+Location of <b>strings.xml</b>
 ```
-.\app\src\main\res\values
+.\app\src\main\res\values\strings.xml
 ```
